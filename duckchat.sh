@@ -17,7 +17,7 @@ echo "\
 
 
 originDirName=""
-httpPort=80
+httpPort=81
 zalyPort=2021
 wsPort=2031
 sysOS=`uname -s`
